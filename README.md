@@ -1,2 +1,1 @@
-# python_kfc_bot
-Bu kfc bot
+Bu kfc botga telegram orqali kirib qidirishga @baxacha_bot shu qidiring
